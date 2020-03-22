@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Multiple User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18be3bd3-713c-49ff-9701-15c6c7c841a3</testCaseGuid>
+   <variable>
+      <defaultValue>'hahahah'</defaultValue>
+      <description></description>
+      <id>26d584fe-3476-449f-9070-4d67fc5e2d4a</id>
+      <masked>false</masked>
+      <name>var_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'ahahhsh'</defaultValue>
+      <description></description>
+      <id>50f90a6d-f06f-4c6b-8496-0a260ab90b5b</id>
+      <masked>false</masked>
+      <name>var_pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'invalid'</defaultValue>
+      <description></description>
+      <id>227a6641-31fb-4168-b8fa-27f96f265bcf</id>
+      <masked>false</masked>
+      <name>var_expected</name>
+   </variable>
+</TestCaseEntity>
